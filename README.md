@@ -1,4 +1,6 @@
-## Hi there 👋
+# HEY! Nice to see you. 👋
+<p>Welcome to my page!</br>
+I'm Hongjeong Park</p>
 
 <!--
 **devdev916/devdev916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
